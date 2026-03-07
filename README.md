@@ -5,7 +5,6 @@
 [<img src="https://img.shields.io/badge/GolangClouds-3776AB?style=flat&logo=go&logoColor=white" target="_blank" />](https://www.golangclouds.com)
 [<img src="https://img.shields.io/badge/%E5%8F%8B%E4%BA%BA's_Blog-3776AB?style=flat&logo=rss&logoColor=white" target="_blank" />](https://www.codermast.com)
 [<img src="https://img.shields.io/badge/%E5%8F%8B%E4%BA%BA's_Resume-3776AB?style=flat&logo=readthedocs&logoColor=white" target="_blank" />](https://www.codermast.com/resume)
-[<img src="https://img.shields.io/badge/Email-3776AB?style=flat&logo=gmail&logoColor=white" target="_blank" />](mailto:codermast@163.com)
 
 ## About Me
 
@@ -18,6 +17,7 @@ Backend developer, mainly **Golang** and **Java**, also familiar with React and 
 - 📝 Occasional tech posts and notes on my blog
 - 🎵 Into music and movies
 - 💬 Open to tech chat, open source, or referrals
+- 📫 Contact Me: [codermast@163.com](mailto:codermast@163.com)
 
 ## Projects
 
