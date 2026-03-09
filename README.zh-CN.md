@@ -3,7 +3,7 @@
 **中文** | [English](README.md)
 
 [<img src="https://img.shields.io/badge/GolangClouds-3776AB?style=flat&logo=go&logoColor=white" target="_blank" />](https://www.golangclouds.com)
-[<img src="https://img.shields.io/badge/个人博客-3776AB?style=flat&logo=rss&logoColor=white" target="_blank" />](https://www.codermast.com)
+[<img src="https://img.shields.io/badge/友人博客-3776AB?style=flat&logo=rss&logoColor=white" target="_blank" />](https://www.codermast.com)
 [<img src="https://img.shields.io/badge/个人简历-3776AB?style=flat&logo=readthedocs&logoColor=white" target="_blank" />](https://www.codermast.com/resume)
 
 ## 关于我
