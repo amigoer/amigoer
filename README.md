@@ -17,7 +17,7 @@ Backend developer, mainly **Golang** and **Java**, also familiar with React and 
 - 📝 Occasional tech posts and notes on my blog
 - 🎵 Into music and movies
 - 💬 Open to tech chat, open source, or referrals
-- 📫 Contact Me: [codermast@163.com](mailto:codermast@163.com)
+- 📫 Contact Me: [i@amigoer.com](mailto:i@amigoer.com)
 
 ## Projects
 

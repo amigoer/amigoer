@@ -17,7 +17,7 @@
 - 📝 偶尔在博客写技术总结与踩坑记录
 - 🎵 业余喜欢听音乐、看电影
 - 💬 欢迎聊技术、开源协作或内推
-- 📫 联系我: [codermast@163.com](mailto:codermast@163.com)
+- 📫 联系我: [i@amigoer.com](mailto:i@amigoer.com)
 
 ## 项目
 
