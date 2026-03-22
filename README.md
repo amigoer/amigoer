@@ -11,7 +11,7 @@
 Backend developer, mainly **Golang** and **Java**, also familiar with React and Vue; can ship full-stack apps with Vibe Coding.
 
 - 🎓 B.S. in Finance, Xi'an University of Finance and Economics (2019–2023)
-- 💼 Currently at an AI startup in Hangzhou
+- 💼 Server Side Developer @ *Humanify* (AI startup in Hangzhou)
 - 📍 Based in Hangzhou · Finance → Tech
 - 🌱 Interested in cloud native, LLM applications & agents
 - 📝 Occasional tech posts and notes on my blog
@@ -23,14 +23,6 @@ Backend developer, mainly **Golang** and **Java**, also familiar with React and 
 
 - **Rocket-Leaf** — A lightweight cross-platform RocketMQ admin client
 - Pure Go RocketMQ admin client
-
-## Work Experience
-
-- Mar 2026 - Present **Server Side Developer** @ *Humanify*
-- Jan 2026 - Feb 2026 **Cloud Native Developer** @ *Beyond*
-- Feb 2025 - Nov 2025 **Full Stack Developer** @ *HuLianJiGuang*
-- Mar 2024 - Aug 2024 **LLM Agent Developer** @ *STSOFT*
-- Mar 2023 - May 2023 **Data Analyst** @ *China Merchants Bank, Xi'an Branch*
 
 
 ## Open Source Contributions
