@@ -3,8 +3,8 @@
 **English** | [中文](README.zh-CN.md)
 
 [<img src="https://img.shields.io/badge/GolangClouds-3776AB?style=flat&logo=go&logoColor=white" target="_blank" />](https://www.golangclouds.com)
-[<img src="https://img.shields.io/badge/%E5%8F%8B%E4%BA%BA's_Blog-3776AB?style=flat&logo=rss&logoColor=white" target="_blank" />](https://www.amigoer.com)
-[<img src="https://img.shields.io/badge/%E5%8F%8B%E4%BA%BA's_Resume-3776AB?style=flat&logo=readthedocs&logoColor=white" target="_blank" />](https://www.amigoer.com/resume)
+[<img src="https://img.shields.io/badge/Amigoer's_Blog-3776AB?style=flat&logo=rss&logoColor=white" target="_blank" />](https://www.amigoer.com)
+[<img src="https://img.shields.io/badge/Amigoer's_Resume-3776AB?style=flat&logo=readthedocs&logoColor=white" target="_blank" />](https://www.amigoer.com/resume)
 
 ## About Me
 
